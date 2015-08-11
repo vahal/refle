@@ -1,3 +1,9 @@
+# prvni
 git log
 
 git status
+
+# druhy
+git branch
+
+git merge
